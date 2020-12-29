@@ -1,0 +1,5 @@
+Found password: ac Took: 65 attempts 
+Found Password: ac Took: 65 attempts 
+Found Password: core Took: 773765 attempts 
+Found Password: byte Took: 574001 attempts 
+Found Password: byt3 Took: 574052 attempts 

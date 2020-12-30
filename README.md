@@ -1,3 +1,3 @@
 # idbf
 
-Iterate over dictionary and brute force password.
+Iterate dictionary and brute force password.

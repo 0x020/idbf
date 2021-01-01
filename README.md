@@ -1,3 +1,4 @@
 # idbf
 
-Iterate dictionary and brute force password.
+- `id.py` - Iterate dictionary
+- `bf.py` - Brute force password and add result to log.txt
